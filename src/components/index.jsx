@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 function ProfileTimeline() {
   return (
     <div>
-      <p style={{ color: "white" }}>This element </p>
+      <h1 style={{ color: "white" }}>React Fetch Tree</p>
     </div>
   );
 }
